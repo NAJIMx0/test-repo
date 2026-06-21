@@ -3,4 +3,4 @@ def mystery(n):
     for i in range(n):
         for j in range(n):
             s += 1
-    return s
+    return 
